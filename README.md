@@ -25,11 +25,11 @@ This application provides a simple chat experience using TCP sockets for communi
 ## INSTALLATION
 
 1. **Clone the repository:**
-    git clone https://github.com/your-username/python-tcp-chat.git
+    git clone https://github.com/derdakaraaslan/python-tcp-chat.git
     cd python-tcp-chat
 
 2. **Install dependencies:**
-    git clone https://github.com/your-username/python-tcp-chat.git
+    git clone https://github.com/derdakaraaslan/python-tcp-chat.git
     cd python-tcp-chat
 
 
